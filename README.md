@@ -1,1 +1,3 @@
 # Predicting-an-essay-s-score-based-on-keyboard-events
+
+This project aims to predict the overall quality of writing based on typing behavior, using a dataset of keystroke logs that capture features of the writing process. Traditional writing assessments primarily focus on the final written product. This dataset emphasizes the process of writing, investigating how various writing behaviors, like pausing patterns, additions or deletions, and revisions, impact the quality of writing. More importantly, the scale of this dataset allows us to use data-driven approaches to investigate the relationship between writing behaviors and writing quality, which could lead to more robust and generalizable findings.
